@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Tasks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Acer\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\Acer\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Acer\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\Acer\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
